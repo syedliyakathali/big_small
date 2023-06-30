@@ -7,3 +7,6 @@ ans yes
 Thank you 
 991292717117171
 
+q4) extra question;
+what is sql commands?
+dcl,tcl,ddl
